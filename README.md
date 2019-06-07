@@ -2,4 +2,4 @@
 
 Just another project for JavaFX.
 
-![ball.gif]
+![Bouncing Ball](ball.gif) 
