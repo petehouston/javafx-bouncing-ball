@@ -1,0 +1,11 @@
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+.classpath
+.eclipse
+.project
+
+out/
+dist/
+bin/
